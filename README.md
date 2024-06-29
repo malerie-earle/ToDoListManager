@@ -1,4 +1,5 @@
 Simple To-Do List Manager
+
 This Java project demonstrates the use of arrays and single linked lists for managing a simple to-do list system. 
 Users can be created with unique names and each user has their own to-do list represented as a linked list of tasks. 
 Key functionalities include:
